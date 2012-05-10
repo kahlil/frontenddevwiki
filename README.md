@@ -1,7 +1,9 @@
-frontenddevwiki
-===============
+Front-End Dev Wiki
+==================
 
-Hello! This is my personal front-end dev wiki.
+Hello there, friend! 
+
+This is my personal front-end dev wiki.
 
 There is nothing to see here yet...
 
