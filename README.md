@@ -57,7 +57,7 @@ Object Oriented CSS
 * [SASS](http://sass-lang.com) ([reference](http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html))   
 My pre-processor of choice.
 
-* [COMPASS](http://compass-style.org/reference/compass/) [reference](http://compass-style.org/reference/compass/)  
+* [COMPASS](http://compass-style.org/reference/compass/) ([reference](http://compass-style.org/reference/compass/))  
 Most important SASS companion.
 
 # Prototyping
