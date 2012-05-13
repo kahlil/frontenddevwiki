@@ -28,6 +28,7 @@ Tiny libs for specific use cases if you want to mainly use vanilla JS.
 Provides an MVC-ish structure for your JavaScript apps.
 
 * [The Fundamentals](http://addyosmani.github.com/backbone-fundamentals/)
+* [Unit Testing](http://addyosmani.com/blog/unit-testing-backbone-js-apps-with-qunit-and-sinonjs/)
 
 ### [Ember.js](http://emberjs.com/)  
 > Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.
@@ -36,6 +37,7 @@ Provides an MVC-ish structure for your JavaScript apps.
 
 ## Design Patterns
 * [Shishuan's collection](http://shichuan.github.com/javascript-patterns/)
+* [Learning Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Best Practices
 
