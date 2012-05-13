@@ -16,9 +16,10 @@ The crockfordian code conventions.
 
 ## Libraries
 
-* [jQuery](http://jquery.com)  
-&hearts; it.
-** asdf
+### [jQuery](http://jquery.com)  
+* [The Source](http://code.jquery.com/jquery-latest.js)
+* [The API](http://jqapi.com)
+* [The Plugin Patterns](https://github.com/addyosmani/jquery-plugin-patterns)
 
 * [Micro.js](http://microjs.com/)  
 Tiny libs for specific use cases if you want to mainly use vanilla JS.
@@ -28,6 +29,9 @@ Provides an MVC-ish structure for your JavaScript apps.
 
 * [Ember.js](http://emberjs.com/)  
 > Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.
+
+## Design Patterns
+* [Shishuan's collection](http://shichuan.github.com/javascript-patterns/)
 
 ## Best Practices
 
