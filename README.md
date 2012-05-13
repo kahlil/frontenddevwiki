@@ -21,14 +21,18 @@ The crockfordian code conventions.
 * [The API](http://jqapi.com)
 * [The Plugin Patterns](https://github.com/addyosmani/jquery-plugin-patterns)
 
-* [Micro.js](http://microjs.com/)  
+### [Micro.js](http://microjs.com/)  
 Tiny libs for specific use cases if you want to mainly use vanilla JS.
 
-* [Backbone.js](http://backbonejs.org/)  
+### [Backbone.js](http://backbonejs.org/)  
 Provides an MVC-ish structure for your JavaScript apps.
 
-* [Ember.js](http://emberjs.com/)  
+* [The Fundamentals](http://addyosmani.github.com/backbone-fundamentals/)
+
+### [Ember.js](http://emberjs.com/)  
 > Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.
+
+* [Embler](http://emberjs.tumblr.com/) 
 
 ## Design Patterns
 * [Shishuan's collection](http://shichuan.github.com/javascript-patterns/)
