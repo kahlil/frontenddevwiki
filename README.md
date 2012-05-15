@@ -36,7 +36,7 @@ Provides an MVC-ish structure for your JavaScript apps.
 * [Embler](http://emberjs.tumblr.com/) 
 
 ### Design Patterns
-* [Shishuan's collection](http://shichuan.github.com/javascript-patterns/)
+* [Shichuan's collection](http://shichuan.github.com/javascript-patterns/)
 * [Learning Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ### Best Practices
