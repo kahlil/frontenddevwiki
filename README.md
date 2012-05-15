@@ -77,3 +77,7 @@ Becoming the ultimate build tool for front-end devs.
 
 * [Mothereff.in](http://mothereff.in/)
 * [Toolbox](http://www.thetoolbox.cc/)
+
+## HTML5 Presentation Tools
+* [Reveal.js](http://lab.hakim.se/reveal-js)
+* [HTML5 Slides](http://code.google.com/p/html5slides/)
