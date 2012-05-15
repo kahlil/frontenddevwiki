@@ -5,46 +5,46 @@ I am not trying to create a comprehensive front-end dev wiki but a wiki comprise
 Nothing to see here really yet. Once a significant size and value prop may be reached, it might become useful for a whole bunch of people. Also who knows if I'll be able to maintain this beast.  
 Time will tell.
 
-# JavaScript
+## JavaScript
 
-## Styleguides
+### Styleguides
 
 * [Idiomatic.js](https://github.com/rwldrn/idiomatic.js/)  
 This styleguide has been recommended by Addy Osmani in his [styleguide article](http://addyosmani.com/blog/javascript-style-guides-and-beautifiers/#more-4645). 
 * [Crockford's JavaScript Code Conventions](http://javascript.crockford.com/code.html)  
 The crockfordian code conventions.
 
-## Libraries
+### Libraries
 
-### [jQuery](http://jquery.com)  
+#### [jQuery](http://jquery.com)  
 * [The Source](http://code.jquery.com/jquery-latest.js)
 * [The API](http://jqapi.com)
 * [The Plugin Patterns](https://github.com/addyosmani/jquery-plugin-patterns)
 
-### [Micro.js](http://microjs.com/)  
+#### [Micro.js](http://microjs.com/)  
 Tiny libs for specific use cases if you want to mainly use vanilla JS.
 
-### [Backbone.js](http://backbonejs.org/)  
+#### [Backbone.js](http://backbonejs.org/)  
 Provides an MVC-ish structure for your JavaScript apps.
 
 * [The Fundamentals](http://addyosmani.github.com/backbone-fundamentals/)
 * [Unit Testing](http://addyosmani.com/blog/unit-testing-backbone-js-apps-with-qunit-and-sinonjs/)
 
-### [Ember.js](http://emberjs.com/)  
+#### [Ember.js](http://emberjs.com/)  
 > Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.
 
 * [Embler](http://emberjs.tumblr.com/) 
 
-## Design Patterns
+### Design Patterns
 * [Shishuan's collection](http://shichuan.github.com/javascript-patterns/)
 * [Learning Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-## Best Practices
+### Best Practices
 
 * [Use requestAnimationFrame instead of setTimeout to animate](http://paulirish.com/2011/requestanimationframe-for-smart-animating/)  
 The polyfill for this can also be found in this [Gist](https://gist.github.com/1579671).
 
-# HTML
+## HTML
 
 * [HTML5 Boilerplate](http://html5boilerplate.com)  
 The ultimate set of best practices for your HTML5 project.
@@ -53,14 +53,14 @@ Scalable and Modular Architecture for CSS
 * [OOCSS](http://oocss.org/)  
 Object Oriented CSS
 
-# CSS
+## CSS
 * [SASS](http://sass-lang.com) ([reference](http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html))   
 My pre-processor of choice.
 
 * [COMPASS](http://compass-style.org/reference/compass/) ([reference](http://compass-style.org/reference/compass/))  
 Most important SASS companion.
 
-# Prototyping
+## Prototyping
 
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/)  
 > Simple and flexible HTML, CSS, and Javascript for popular user interface components and interactions.
@@ -68,16 +68,16 @@ Most important SASS companion.
 * [Foundation by Zurb](http://foundation.zurb.com/)  
 > An easy to use, powerful, and flexible framework for building prototypes and production code on any kind of device.
 
-# Build Tools
+## Build Tools
 
 * [Grunt.js](https://github.com/cowboy/grunt)  
 Becoming the ultimate build tool for front-end devs.
 
-# Other Tools
+## Other Tools
 
 * [Mothereff.in](http://mothereff.in/)
 * [Toolbox](http://www.thetoolbox.cc/)
 
-## HTML5 Presentation Tools
+### HTML5 Presentation Tools
 * [Reveal.js](http://lab.hakim.se/reveal-js)
 * [HTML5 Slides](http://code.google.com/p/html5slides/)
