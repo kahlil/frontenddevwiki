@@ -14,18 +14,39 @@ This styleguide has been recommended by Addy Osmani in his [styleguide article](
 * [Crockford's JavaScript Code Conventions](http://javascript.crockford.com/code.html)  
 The crockfordian code conventions.
 
-### Libraries
+### Important Libraries
 
 #### [jQuery](http://jquery.com)  
 * [The Source](http://code.jquery.com/jquery-latest.js)
 * [The API](http://jqapi.com)
 * [The Plugin Patterns](https://github.com/addyosmani/jquery-plugin-patterns)
 
-##### jQuery Plugins
+##### Important jQuery Plugins
 * [nanoscroller](http://jamesflorentino.com/jquery.nanoscroller/)
+* [Ketchup](http://demos.usejquery.com/ketchup-plugin/)
+* [timing: http://creativecouple.github.com/jquery-timing/
+
 
 #### [Micro.js](http://microjs.com/)  
 Tiny libs for specific use cases if you want to mainly use vanilla JS.
+
+#### [Rainbow.js](http://craig.is/making/rainbows)
+
+#### [Require.js](http://requirejs.org)
+
+#### [Moment.js](http://momentjs.com/)
+
+#### [SuperScrollerama](http://johnpolacek.github.com/superscrollorama/)
+
+#### [ScrollPath](http://joelb.me/scrollpath/)
+
+#### [Galleria.io](http://galleria.io)
+
+#### [Uri.js](http://medialize.github.com/URI.js/)
+
+#### [Swipe js](http://swipejs.com/)
+
+#### [spin.js](http://fgnass.github.com/spin.js/)
 
 #### [Backbone.js](http://backbonejs.org/)  
 Provides an MVC-ish structure for your JavaScript apps.
