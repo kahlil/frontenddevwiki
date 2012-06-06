@@ -21,6 +21,9 @@ The crockfordian code conventions.
 * [The API](http://jqapi.com)
 * [The Plugin Patterns](https://github.com/addyosmani/jquery-plugin-patterns)
 
+##### jQuery Plugins
+* [nanoscroller](http://jamesflorentino.com/jquery.nanoscroller/)
+
 #### [Micro.js](http://microjs.com/)  
 Tiny libs for specific use cases if you want to mainly use vanilla JS.
 
