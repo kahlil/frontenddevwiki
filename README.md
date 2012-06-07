@@ -48,6 +48,8 @@ Tiny libs for specific use cases if you want to mainly use vanilla JS.
 
 #### [spin.js](http://fgnass.github.com/spin.js/)
 
+#### [Hammer.js](http://eightmedia.github.com/hammer.js/)
+
 #### [Backbone.js](http://backbonejs.org/)  
 Provides an MVC-ish structure for your JavaScript apps.
 
