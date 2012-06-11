@@ -1,9 +1,6 @@
 # Front-End Dev Wiki
 
-Welcome to my wiki in which I collect front-end dev stuffz.  
-I am not trying to create a comprehensive front-end dev wiki but a wiki comprised of the tools and knowledge that I want to have easy access to.  
-Nothing to see here really yet. Once a significant size and value prop may be reached, it might become useful for a whole bunch of people. Also who knows if I'll be able to maintain this beast.  
-Time will tell.
+A document wiki in which I collect front-end dev stuffz I want to have easy access to.
 
 ## JavaScript
 
