@@ -1,6 +1,6 @@
 # Front-End Dev Wiki
 
-A document wiki in which I collect front-end dev stuffz I want to have easy access to.
+A document wiki in which I collect front-end dev stuffz, to which I want to have easy access to.
 
 ## JavaScript
 
