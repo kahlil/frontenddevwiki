@@ -19,13 +19,17 @@ The crockfordian code conventions.
 * [The Plugin Patterns](https://github.com/addyosmani/jquery-plugin-patterns)
 
 ##### Important jQuery Plugins
-* [nanoscroller](http://jamesflorentino.com/jquery.nanoscroller/)
+###### [nanoscroller](http://jamesflorentino.com/jquery.nanoscroller/)
 
 > nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Lion-styled scrollbars for your website.
 
-* [Ketchup](http://demos.usejquery.com/ketchup-plugin/)
-* [timing](http://creativecouple.github.com/jquery-timing/)
+###### [Ketchup](http://demos.usejquery.com/ketchup-plugin/)
 
+> Ketchup is a small (3.4KB minified & gzipped) jQuery Plugin that helps you to validate your forms.
+
+###### [timing](http://creativecouple.github.com/jquery-timing/)
+
+> jquery-timing provides easy-to-use methods to define iterations, timeouts, intervals, and event-based loops just in line with all your jQuery stuff.
 
 #### [Micro.js](http://microjs.com/)  
 Tiny libs for specific use cases if you want to mainly use vanilla JS.
