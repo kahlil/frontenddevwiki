@@ -1,6 +1,6 @@
 # Front-End Dev Wiki
 
-A document wiki in which I collect front-end dev stuffz, to which I want to have easy access to.
+A document in which I collect front-end dev stuffz, to which I want to have easy access to.
 
 ## JavaScript
 
@@ -52,6 +52,12 @@ Provides an MVC-ish structure for your JavaScript apps.
 
 * [The Fundamentals](http://addyosmani.github.com/backbone-fundamentals/)
 * [Unit Testing](http://addyosmani.com/blog/unit-testing-backbone-js-apps-with-qunit-and-sinonjs/)
+
+##### Adding structure to a Backbone.js project
+* [Backbone.marionette](https://github.com/derickbailey/backbone.marionette)
+* [Backbone Aura](https://github.com/addyosmani/backbone-aura)
+* [Chaplin](https://github.com/moviepilot/chaplin)
+* [Backbone Boilerplate from Bocoup](http://weblog.bocoup.com/introducing-the-backbone-boilerplate/)
 
 #### [Ember.js](http://emberjs.com/)  
 > Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.
