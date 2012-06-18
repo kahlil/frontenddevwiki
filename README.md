@@ -64,6 +64,8 @@ Provides an MVC-ish structure for your JavaScript apps.
 
 * [Embler](http://emberjs.tumblr.com/) 
 
+#### [Almond.js](https://github.com/jrburke/almond)
+
 ### Design Patterns
 * [Shichuan's collection](http://shichuan.github.com/javascript-patterns/)
 * [Learning Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
