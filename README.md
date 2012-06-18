@@ -19,8 +19,10 @@ The crockfordian code conventions.
 * [The Plugin Patterns](https://github.com/addyosmani/jquery-plugin-patterns)
 
 ##### Important jQuery Plugins
-* [nanoscroller](http://jamesflorentino.com/jquery.nanoscroller/)  
+* [nanoscroller](http://jamesflorentino.com/jquery.nanoscroller/)
+
 > nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Lion-styled scrollbars for your website.
+
 * [Ketchup](http://demos.usejquery.com/ketchup-plugin/)
 * [timing](http://creativecouple.github.com/jquery-timing/)
 
