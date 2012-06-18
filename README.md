@@ -21,7 +21,7 @@ The crockfordian code conventions.
 ##### Important jQuery Plugins
 * [nanoscroller](http://jamesflorentino.com/jquery.nanoscroller/)
 * [Ketchup](http://demos.usejquery.com/ketchup-plugin/)
-* [timing: http://creativecouple.github.com/jquery-timing/
+* [timing](http://creativecouple.github.com/jquery-timing/)
 
 
 #### [Micro.js](http://microjs.com/)  
