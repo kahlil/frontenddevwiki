@@ -29,23 +29,43 @@ Tiny libs for specific use cases if you want to mainly use vanilla JS.
 
 #### [Rainbow.js](http://craig.is/making/rainbows)
 
+> Rainbow is a code syntax highlighting library written in Javascript.
+
 #### [Require.js](http://requirejs.org)
+
+> RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. Using a modular script loader like RequireJS will improve the speed and quality of your code.
 
 #### [Moment.js](http://momentjs.com/)
 
+> A lightweight (4.3k) javascript date library for parsing, manipulating, and formatting dates.
+
 #### [SuperScrollerama](http://johnpolacek.github.com/superscrollorama/)
+
+> The jQuery plugin for supercool scroll animation
 
 #### [ScrollPath](http://joelb.me/scrollpath/)
 
+> It's a plugin for defining custom scroll paths.
+
 #### [Galleria.io](http://galleria.io)
+
+> Galleria is a JavaScript image gallery framework. The aim is to simplify the process of creating professional image galleries for the web and mobile devices.
 
 #### [Uri.js](http://medialize.github.com/URI.js/)
 
+> URI.js is a javascript library for working with URLs. It offers a "jQuery-style" API (Fluent Interface, Method Chaining) to read and write all regular components and a number of convenience methods like .directory() and .authority().
+
 #### [Swipe js](http://swipejs.com/)
+
+> Swipe is a lightweight mobile slider with 1:1 touch movement, resistant bounds, scroll prevention, and completely library agnostic.
 
 #### [spin.js](http://fgnass.github.com/spin.js/)
 
+JavaScript spinner.
+
 #### [Hammer.js](http://eightmedia.github.com/hammer.js/)
+
+> A javascript library for multi-touch gestures
 
 #### [Backbone.js](http://backbonejs.org/)  
 Provides an MVC-ish structure for your JavaScript apps.
