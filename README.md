@@ -70,6 +70,10 @@ Tiny libs for specific use cases if you want to mainly use vanilla JS.
 
 JavaScript spinner.
 
+#### [Mousetrap](http://craig.is/killing/mice)
+
+A keyboard shortcut lib in JavaScript.
+
 #### [Hammer.js](http://eightmedia.github.com/hammer.js/)
 
 > A javascript library for multi-touch gestures
